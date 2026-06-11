@@ -1,6 +1,8 @@
 # E-Commerce Conversion Funnel Analysis: Themed Apparel Drop
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/chris.cortes2425/viz/E-CommerceConversionFunnelAnalysis_17811379985940/Dashboard1)
+![Tableau Dashboard](ecommerce-funnel-analysis-visual.png)
+
+[Live Tableau Dashboard](https://public.tableau.com/app/profile/chris.cortes2425/viz/E-CommerceConversionFunnelAnalysis_17811379985940/Dashboard1)
 
 ## Project Overview
 
